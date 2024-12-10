@@ -3,42 +3,5 @@ hi vanakam
 good afternoon
 naa name prasad
 mee name pavan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-:wq
-
-
-
-
 devops1
 devops2
